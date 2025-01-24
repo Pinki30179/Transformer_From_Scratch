@@ -20,9 +20,7 @@ To run this code, you'll need:
 - NumPy
 
 install the necessary dependencies with:
-
-```bash
-pip install torch numpy
+ - pip install torch numpy
 
 
 ## Model Hyperparameters
